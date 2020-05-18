@@ -9,6 +9,11 @@ I've been using it since 2017, however, many of the features introduced did not 
 
 ## Changelog
 
+### 1.2.0 (18/05/2020)
+
+ * Added plan output file support
+ * Added -no-color option detection in TF_CLI_ARGS
+
 ### 1.1.0 (07/10/2019)
 
  * TFState S3 Bucket encryption enabled
